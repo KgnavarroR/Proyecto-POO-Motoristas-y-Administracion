@@ -1,0 +1,74 @@
+
+body{
+    font-family: 'Helvetica Neue', sans-serif; 
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);  
+  }
+  
+
+#logo {
+  margin-left: 100px;
+  margin-top: 0px;
+}
+
+.navbar-brand {
+  margin-left: 580px; 
+  margin-top: 30px; 
+  font-size: 2rem; 
+  font-weight: bold;
+}
+
+
+.navbar {
+  border-bottom: 4px solid #c4c4c4;
+}
+
+
+.menu {
+  font-size: 2rem;
+  color: #287690;
+  margin-left: 90px;
+  font-weight: bold;
+}
+
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f2f4f5;
+    border-radius: 30px;
+    width: 267px;
+    height: 402px;
+    margin-left: 85px;
+    margin-top: 0;
+    cursor: pointer; 
+    
+}
+
+.card-title {
+    font-size: 1.3rem;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-img {
+  width: 200px;
+  margin-left: 35px;
+  margin-top: 45px;
+  margin-bottom: 30px;
+}
+
+
+.contenedor-footer {
+    background-color: #18191f;
+    margin-top: 100px;
+    color: #c1c3c9;
+    font-size: 0.7rem;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-left: -15px;
+    margin-right: -15px;
+    
+  }

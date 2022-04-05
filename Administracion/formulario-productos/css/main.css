@@ -1,0 +1,83 @@
+
+body{
+    font-family: 'Helvetica Neue', sans-serif;    
+  }
+  
+
+#logo {
+  margin-left: 100px;
+  margin-top: -20px;
+}
+
+.navbar-brand {
+  margin-left: 380px; 
+  margin-top: 2px; 
+  font-size: 2rem; 
+  font-weight: bold;
+}
+
+.contenedor-encabezado {
+  background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+  width: 1900px ;
+  height: 75px ;
+}
+
+#btn-iconoMenu {
+  cursor: pointer;
+  border:none;
+  background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+}
+
+#formulario-productos{                                       
+    width: 566px;     
+    height: 502px;                    
+    margin-left: 300px;        
+    margin-top: 60px; 
+    margin-bottom: 100px;
+    margin-top: 15px;
+  }   
+  .formulario {
+    margin-left: 22px;
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: #287690;
+    margin-bottom: 35px;
+  }
+  
+  .texto-caja {
+   background-color: #f8f9fa;
+   border-radius: 10px;
+   border-color: black;
+   width: 980px;
+   height: 58px;
+   font-size: 1.4rem;
+   box-sizing: border-box;
+   margin-bottom: 20px;
+   margin-top: 15px;
+   margin-left: 22px;
+  }
+  
+  .boton {
+    box-sizing: border-box;
+      background-color: #287690;                  
+      font-weight: bold;                   
+      color: #FFFFFF;                   
+      margin-top: 70px;                  
+      cursor: pointer;  
+      border-radius: 15px; 
+      border:none;
+      width: 289px;       
+      height: 73px;  
+      font-size: 1.2rem;    
+      margin-left: 350px;
+  }
+
+  .dato {
+      font-size: 1.4rem;
+      color: black;
+      margin-bottom: 1px;
+      margin-top: 15px;
+      font-weight: bold;
+      margin-left: 22px;
+
+  }
