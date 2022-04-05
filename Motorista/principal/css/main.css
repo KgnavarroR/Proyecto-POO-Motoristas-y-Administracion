@@ -1,0 +1,46 @@
+body{
+    font-family: 'Helvetica Neue', sans-serif;  
+  }
+  
+
+#logo {
+  margin-left: 100px;
+  margin-top: 30px;
+  width: 150px;
+}
+
+
+#imagen {
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+.titulo {
+    border-bottom: 6px solid #52cc6d;  
+    color: #52cc6d;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.slogan {
+    font-size: 1.3rem;
+    color: black;
+    text-align: center;
+    margin-top: -17px;
+}
+
+#btn-comenzar {
+width: 342px;
+height: 50px;
+background-color: #52cc6d;
+color: white;
+border: 0;
+border-radius: 8px;
+text-align: center;
+font-size: 1.4rem;
+margin-left: 8px;
+margin-top: 70px;
+
+}
