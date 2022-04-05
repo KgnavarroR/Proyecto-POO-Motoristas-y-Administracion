@@ -1,0 +1,67 @@
+
+body{
+    font-family: 'Helvetica Neue', sans-serif;    
+  }
+  
+
+#logo {
+  margin-left: 100px;
+  margin-top: -15px;
+
+}
+
+.navbar-brand {
+  margin-left: 200px; 
+  margin-top: -25px; 
+  font-size: 2.6rem; 
+  font-weight: bold;
+}
+
+#btn-iconoMenu {
+  cursor: pointer;
+  border:none;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: 3px solid #287690;
+  border-radius: 30px;
+  background-color: #f3f3f3;
+  width: 1335px;
+  height: 254px;
+  margin-left: 120px;
+  margin-bottom: 30px;
+ 
+    
+}
+
+.card-body {
+  font-size: 1.5rem;
+  color: black;
+  margin-left: 90px;
+    
+}
+
+.card-title{
+  font-size: 1.5rem;
+  color: black;
+  font-weight: bold;
+  margin-top: 30px;
+  
+
+}
+
+
+
+#boton {
+width: 248px;
+height: 66px;
+background-color: #287690;
+color: white;
+border: 0;
+border-radius: 15px;
+margin-left: 900px;
+margin-top: -120px;
+text-align: center;
+
+}

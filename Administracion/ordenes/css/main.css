@@ -1,0 +1,139 @@
+
+body{
+    font-family: 'Helvetica Neue', sans-serif;    
+  }
+  
+
+#logo {
+  margin-left: 100px;
+  margin-top: -15px;
+
+}
+
+.navbar-brand {
+  margin-left: 200px; 
+  margin-top: -25px; 
+  font-size: 2.6rem; 
+  font-weight: bold;
+}
+
+
+
+.card {
+  border: 3px solid #287690;
+  border-radius: 30px;
+  background-color: #f3f3f3;
+  width: 1335px;
+  height: 254px;
+  margin-left: 120px;
+  margin-bottom: 30px;
+ 
+    
+}
+
+.card-body {
+  font-size: 1.5rem;
+  color: black;
+  margin-left: 250px;
+  margin-top: -195px;
+    
+}
+
+.card-title{
+  font-size: 2.2rem;
+  color: black;
+  font-weight: bold;
+  margin-left: 50px;
+  margin-top: 25px;
+}
+
+.card-img{
+ width: 130px;
+}
+
+.card-imgProducto{
+    width: 150px;
+    margin-left: 1010px;
+    margin-top: -330px;
+}
+
+#btn-iconoMenu {
+  cursor: pointer;
+  border:none;
+  background-color: #f8f9fa;
+}
+ 
+
+#boton {
+width: 248px;
+height: 66px;
+background-color: #287690;
+color: white;
+border: 0;
+border-radius: 15px;
+text-align: center;
+font-size: 1.5rem;
+margin-left: 980px;
+margin-top: -90px;
+
+}
+
+
+#btn-imagen {
+  width: 150px;
+  margin-top: -50px;
+  margin-left: 400px;
+}
+
+.btn-titulo {
+ 
+margin-left: 600px;
+margin-top: 100px;
+font-size: 2.3rem;
+font-weight: bold;
+
+}
+
+.btn-nombre {
+margin-left: 600px;
+margin-top: -115px;
+font-size: 2.3rem;
+font-weight: bold;
+}
+
+.texto-caja {
+  background-color: #ffffff;
+  border-radius: 15px;
+  border-color: black;
+  width: 800px;
+  height: 58px;
+  font-size: 1.4rem;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-left: 400px;
+ }
+
+ .dato {
+  font-size: 1.4rem;
+  color: black;
+  margin-bottom: 1px;
+  margin-top: 15px;
+  font-weight: bold;
+  margin-left: 400px;
+
+}
+
+.parrafo {
+ font-size: 1.5rem;
+ margin-left: 500px;
+ margin-top: -105px;
+ margin-bottom: 50px;
+}
+
+#imagen {
+  margin-left: 400px;
+  width: 100px;
+  margin-top: 150px;
+
+}

@@ -1,0 +1,86 @@
+
+body{
+    font-family: 'Helvetica Neue', sans-serif;  
+  }
+  
+
+#logo {
+  margin-left: 100px;
+  margin-top: 0px;
+}
+
+.navbar-brand {
+  margin-left: 580px; 
+  margin-top: 30px; 
+  font-size: 2rem; 
+  font-weight: bold;
+}
+
+.container-fluid {
+  border-bottom: 4px solid #c4c4c4;
+}
+
+#formulario-administracion{            
+  background-color: #f8f9fa; 
+  color: #287690;                             
+  width: 566px;     
+  height: 502px;      
+  border-radius:15px;
+  border-color:#287690 ;
+  border: 3px solid;        
+  padding: 10px 10px;        
+  margin-left: auto;       
+  margin-right: auto ;  
+  margin-top: 60px; 
+  margin-bottom: 100px;
+}   
+.inicia {
+  margin-left: 22px;
+  margin-top: 30px;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.texto-caja {
+ background-color: #f8f9fa;
+ border-radius: 10px;
+ border-color: black;
+ color: #aaaaaa ;
+ width: 502px;
+ height: 58px;
+ font-size: 1.4rem;
+ box-sizing: border-box;
+ margin-bottom: 20px;
+ margin-top: 20px;
+ margin-left: 22px;
+}
+
+.boton {
+  box-sizing: border-box;
+    background-color: #287690;                  /*color del button*/
+    font-weight: bold;                   /*fuente de la letra negrita*/
+    color: #FFFFFF;                   /*color de la letra del button*/
+    margin-top: 70px;                  /*para que haya un poco de espacio entre los otro boton*/
+    cursor: pointer;  
+    border-radius: 15px; 
+    border:none;
+    width: 270px;       
+    height: 54px;  
+    font-size: 1rem;    
+    margin-left: 140px;
+}
+
+#help-link {
+  margin-left: 220px;
+  color: #287690;
+}
+
+.contenedor-footer {
+  background-color: #18191f;
+  color: #c1c3c9;
+  font-size: 0.7rem;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  width: auto;
+}
